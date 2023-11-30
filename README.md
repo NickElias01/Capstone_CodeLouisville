@@ -8,7 +8,7 @@ As the data was available, there is also data on electricity per KWH and gasolin
 The data was sourced from the U.S. Bureau of Labor Statistics website:
 https://www.bls.gov/cpi/data.htm 
 
-# Instructions and Data Dictionary
+# Instructions
 
 1. The needed data CSV files and database file are all located on this repo. Make sure you have the latest version of Python installed on your device.
 2. To view the SQL and several resulting tables, use the Jupyter notebook (.ipynb file)
