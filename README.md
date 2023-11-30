@@ -1,4 +1,5 @@
 # US Average Food Prices over Time
+![grocery_store_sample_pic](https://github.com/NickElias01/Capstone_CodeLouisville/assets/134450333/4f5cfe51-fb87-44f8-8354-64023ab68294)
 
 Welcome to my Code:You Capstone! This project features the use of SQL written through Pandas within a Jupyter notebook, as well as a Tableau Public dashboard.
 
