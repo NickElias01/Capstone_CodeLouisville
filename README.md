@@ -1,11 +1,11 @@
 # US Average Food Prices over Time
 
-Welcome to my Code:You Capstone! 
+Welcome to my Code:You Capstone! This project features the use of SQL written through Pandas within a Jupyter notebook, as well as a Tableau Public dashboard.
 
-The goal of this project is to analyze trends in the price fluctuation of common food products, such as milk, eggs, and coffee. 
+Tableau dashboard link: https://public.tableau.com/app/profile/nick.elias/viz/USGroceryData1980-2023/Dashboard1
 
-This project uses the Consumer Price Index (CPI) as a standard of measurement as reported by the U.S. Bureau of Labor Statistics website:
+The goal of this project is to analyze trends between 1980 to 2023 in the price fluctuations of common grocery products, such as milk, eggs, and coffee. 
+As the data was available, there is also data on electricity per KWH and gasoline.
+
+The data was sourced from the U.S. Bureau of Labor Statistics website:
 https://www.bls.gov/cpi/data.htm 
-
-The Consumer Price Index (CPI) is a measure of the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services. 
-Indexes are available for the U.S. and various geographic areas. Average price data for select utility, automotive fuel, and food items are also available.
